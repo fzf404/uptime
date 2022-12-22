@@ -1,0 +1,40 @@
+owner: fzf404
+repo: uptime
+
+sites:
+  - name: Home
+    url: https://www.fzf404.art/
+  - name: Blog
+    url: https://blog.fzf404.art/
+  - name: Note
+    url: https://note.fzf404.art/
+  - name: Share
+    url: https://share.fzf404.art/
+  - name: Tool
+    url: https://tool.fzf404.art/
+  - name: Demo
+    url: https://demo.fzf404.art/
+  - name: Video
+    url: https://video.fzf404.art/
+  - name: Cloud
+    url: https://cloud.fzf404.art/
+  - name: Tabox
+    url: https://tab.fzf404.art/
+  - name: Monit
+    url: https://monit.fzf404.art/
+  - name: Pixxel
+    url: https://px.fzf404.art/
+  - name: Sedom
+    url: https://sedom.fzf404.art/
+
+
+status-website:
+  cname: uptime.fzf404.art
+  logoUrl: https://img.fzf404.art/avatar.webp
+  name: uptime
+  introTitle: "fzf404 | uptime"
+  navbar:
+    - title: Home
+      href: https://fzf404.art/
+    - title: GitHub
+      href: https://github.com/fzf404
