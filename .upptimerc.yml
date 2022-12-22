@@ -32,7 +32,7 @@ status-website:
   cname: uptime.fzf404.art
   logoUrl: https://img.fzf404.art/avatar.webp
   name: uptime
-  introTitle: "fzf404 | uptime"
+  introTitle: fzf404 website
   navbar:
     - title: Home
       href: https://fzf404.art/
