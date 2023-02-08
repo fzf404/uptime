@@ -31,8 +31,8 @@ sites:
 status-website:
   cname: uptime.fzf404.art
   logoUrl: https://img.fzf404.art/avatar.webp
-  name: uptime
-  introTitle: fzf404 website
+  name: UpTime
+  introTitle: fzf404
   navbar:
     - title: Home
       href: https://www.fzf404.art/
