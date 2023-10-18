@@ -1,0 +1,21 @@
+owner: fzf404
+repo: uptime
+
+sites:
+  - name: Home
+    url: https://fzf404.art/
+  - name: CDN
+    url: https://cdn.fzf404.art/
+  - name: API
+    url: https://api.fzf404.art/
+
+status-website:
+  cname: uptime.fzf404.art
+  logoUrl: https://img.fzf404.art/avatar.webp
+  name: UpTime
+  introTitle: fzf404
+  navbar:
+    - title: Home
+      href: https://fzf404.art/
+    - title: GitHub
+      href: https://github.com/fzf404/uptime
