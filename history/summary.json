@@ -4,19 +4,19 @@
     "url": "https://fzf404.art/",
     "icon": "https://icons.duckduckgo.com/ip3/fzf404.art.ico",
     "slug": "home",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 171,
-    "timeDay": 196,
-    "timeWeek": 191,
-    "timeMonth": 166,
-    "timeYear": 171,
+    "time": 170,
+    "timeDay": 177,
+    "timeWeek": 183,
+    "timeMonth": 165,
+    "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-11-28": 0
+      "2023-11-28": 6
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://cdn.fzf404.art/",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.fzf404.art.ico",
     "slug": "cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 123,
-    "timeDay": 62,
-    "timeWeek": 61,
-    "timeMonth": 118,
-    "timeYear": 123,
+    "time": 128,
+    "timeDay": 111,
+    "timeWeek": 83,
+    "timeMonth": 124,
+    "timeYear": 128,
     "dailyMinutesDown": {
-      "2023-11-28": 0
+      "2023-11-28": 6
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.fzf404.art/",
     "icon": "https://icons.duckduckgo.com/ip3/api.fzf404.art.ico",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 112,
-    "timeDay": 70,
-    "timeWeek": 91,
-    "timeMonth": 120,
-    "timeYear": 112,
+    "time": 113,
+    "timeDay": 93,
+    "timeWeek": 100,
+    "timeMonth": 122,
+    "timeYear": 113,
     "dailyMinutesDown": {
-      "2023-11-28": 0
+      "2023-11-28": 6
     }
   }
 ]
