@@ -4,53 +4,59 @@
     "url": "https://fzf404.art/",
     "icon": "https://icons.duckduckgo.com/ip3/fzf404.art.ico",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 165,
-    "timeWeek": 184,
-    "timeMonth": 163,
+    "timeDay": 180,
+    "timeWeek": 186,
+    "timeMonth": 164,
     "timeYear": 169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-28": 0
+    }
   },
   {
     "name": "CDN",
     "url": "https://cdn.fzf404.art/",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.fzf404.art.ico",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 52,
+    "time": 126,
+    "timeDay": 55,
     "timeWeek": 58,
-    "timeMonth": 124,
-    "timeYear": 128,
-    "dailyMinutesDown": {}
+    "timeMonth": 121,
+    "timeYear": 126,
+    "dailyMinutesDown": {
+      "2023-11-28": 0
+    }
   },
   {
     "name": "API",
     "url": "https://api.fzf404.art/",
     "icon": "https://icons.duckduckgo.com/ip3/api.fzf404.art.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 116,
-    "timeDay": 106,
-    "timeWeek": 105,
-    "timeMonth": 126,
-    "timeYear": 116,
-    "dailyMinutesDown": {}
+    "time": 114,
+    "timeDay": 85,
+    "timeWeek": 100,
+    "timeMonth": 124,
+    "timeYear": 114,
+    "dailyMinutesDown": {
+      "2023-11-28": 0
+    }
   }
 ]
