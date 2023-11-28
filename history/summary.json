@@ -4,19 +4,19 @@
     "url": "https://fzf404.art/",
     "icon": "https://icons.duckduckgo.com/ip3/fzf404.art.ico",
     "slug": "home",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 164,
-    "timeWeek": 174,
-    "timeMonth": 163,
-    "timeYear": 168,
+    "time": 170,
+    "timeDay": 174,
+    "timeWeek": 179,
+    "timeMonth": 165,
+    "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-11-28": 0
+      "2023-11-28": 6
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://cdn.fzf404.art/",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.fzf404.art.ico",
     "slug": "cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 123,
-    "timeWeek": 96,
-    "timeMonth": 125,
-    "timeYear": 128,
+    "time": 127,
+    "timeDay": 114,
+    "timeWeek": 92,
+    "timeMonth": 123,
+    "timeYear": 127,
     "dailyMinutesDown": {
-      "2023-11-28": 0
+      "2023-11-28": 6
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.fzf404.art/",
     "icon": "https://icons.duckduckgo.com/ip3/api.fzf404.art.ico",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 108,
     "timeDay": 71,
-    "timeWeek": 86,
-    "timeMonth": 115,
+    "timeWeek": 84,
+    "timeMonth": 114,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2023-11-28": 0
+      "2023-11-28": 6
     }
   }
 ]
