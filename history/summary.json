@@ -4,19 +4,19 @@
     "url": "https://fzf404.art/",
     "icon": "https://icons.duckduckgo.com/ip3/fzf404.art.ico",
     "slug": "home",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 169,
-    "timeDay": 180,
-    "timeWeek": 186,
-    "timeMonth": 164,
-    "timeYear": 169,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 173,
+    "timeDay": 235,
+    "timeWeek": 203,
+    "timeMonth": 169,
+    "timeYear": 173,
     "dailyMinutesDown": {
-      "2023-11-28": 0
+      "2023-11-28": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://cdn.fzf404.art/",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.fzf404.art.ico",
     "slug": "cdn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 126,
-    "timeDay": 55,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 124,
+    "timeDay": 56,
     "timeWeek": 58,
-    "timeMonth": 121,
-    "timeYear": 126,
+    "timeMonth": 120,
+    "timeYear": 124,
     "dailyMinutesDown": {
-      "2023-11-28": 0
+      "2023-11-28": 9
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.fzf404.art/",
     "icon": "https://icons.duckduckgo.com/ip3/api.fzf404.art.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 85,
-    "timeWeek": 100,
-    "timeMonth": 124,
-    "timeYear": 114,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 113,
+    "timeDay": 74,
+    "timeWeek": 95,
+    "timeMonth": 122,
+    "timeYear": 113,
     "dailyMinutesDown": {
-      "2023-11-28": 0
+      "2023-11-28": 9
     }
   }
 ]
