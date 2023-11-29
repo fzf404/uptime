@@ -4,53 +4,59 @@
     "url": "https://fzf404.art/",
     "icon": "https://icons.duckduckgo.com/ip3/fzf404.art.ico",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 166,
-    "timeDay": 155,
-    "timeWeek": 172,
-    "timeMonth": 161,
-    "timeYear": 166,
-    "dailyMinutesDown": {}
+    "time": 164,
+    "timeDay": 149,
+    "timeWeek": 167,
+    "timeMonth": 159,
+    "timeYear": 164,
+    "dailyMinutesDown": {
+      "2023-11-29": 0
+    }
   },
   {
     "name": "CDN",
     "url": "https://cdn.fzf404.art/",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.fzf404.art.ico",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 124,
-    "timeDay": 111,
-    "timeWeek": 93,
-    "timeMonth": 122,
-    "timeYear": 124,
-    "dailyMinutesDown": {}
+    "time": 123,
+    "timeDay": 106,
+    "timeWeek": 91,
+    "timeMonth": 120,
+    "timeYear": 123,
+    "dailyMinutesDown": {
+      "2023-11-29": 0
+    }
   },
   {
     "name": "API",
     "url": "https://api.fzf404.art/",
     "icon": "https://icons.duckduckgo.com/ip3/api.fzf404.art.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 76,
-    "timeWeek": 90,
-    "timeMonth": 107,
-    "timeYear": 107,
-    "dailyMinutesDown": {}
+    "time": 106,
+    "timeDay": 75,
+    "timeWeek": 88,
+    "timeMonth": 106,
+    "timeYear": 106,
+    "dailyMinutesDown": {
+      "2023-11-29": 0
+    }
   }
 ]
