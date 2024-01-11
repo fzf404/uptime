@@ -5,19 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fzf404.art.ico",
     "slug": "home",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 169,
     "timeDay": 69,
     "timeWeek": 186,
     "timeMonth": 181,
-    "timeYear": 169,
-    "dailyMinutesDown": {
-      "2023-11-29": 29
-    }
+    "timeYear": 169
   },
   {
     "name": "CDN",
@@ -25,19 +22,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.fzf404.art.ico",
     "slug": "cdn",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 114,
     "timeDay": 168,
     "timeWeek": 117,
     "timeMonth": 119,
-    "timeYear": 114,
-    "dailyMinutesDown": {
-      "2023-11-29": 29
-    }
+    "timeYear": 114
   },
   {
     "name": "API",
@@ -45,18 +39,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.fzf404.art.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 118,
     "timeDay": 58,
     "timeWeek": 84,
     "timeMonth": 137,
-    "timeYear": 118,
-    "dailyMinutesDown": {
-      "2023-11-29": 29
-    }
+    "timeYear": 118
   }
 ]
